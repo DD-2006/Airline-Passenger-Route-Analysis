@@ -1,0 +1,31 @@
+Airport_ID,Airport_Name,City,Country,IATA_Code,Latitude,Longitude
+AP001,Chennai International Airport,Chennai,India,MAA,12.9941,80.1709
+AP002,Indira Gandhi International Airport,Delhi,India,DEL,28.5562,77.1
+AP003,Chhatrapati Shivaji Maharaj International Airport,Mumbai,India,BOM,19.0896,72.8656
+AP004,Kempegowda International Airport,Bengaluru,India,BLR,13.1986,77.7066
+AP005,Rajiv Gandhi International Airport,Hyderabad,India,HYD,17.2403,78.4294
+AP006,Netaji Subhas Chandra Bose International Airport,Kolkata,India,CCU,22.6547,88.4467
+AP007,Cochin International Airport,Kochi,India,COK,10.152,76.4019
+AP008,Pune Airport,Pune,India,PNQ,18.5821,73.9197
+AP009,Sardar Vallabhbhai Patel International Airport,Ahmedabad,India,AMD,23.0732,72.6347
+AP010,Goa International Airport,Goa,India,GOX,15.38,73.831
+AP011,Dubai International Airport,Dubai,UAE,DXB,25.2532,55.3657
+AP012,Singapore Changi Airport,Singapore,Singapore,SIN,1.3644,103.9915
+AP013,Heathrow Airport,London,UK,LHR,51.47,-0.4543
+AP014,JFK International Airport,New York,USA,JFK,40.6413,-73.7781
+AP015,Los Angeles International Airport,Los Angeles,USA,LAX,33.9416,-118.4085
+AP016,Hamad International Airport,Doha,Qatar,DOH,25.2731,51.6081
+AP017,Frankfurt Airport,Frankfurt,Germany,FRA,50.0379,8.5622
+AP018,Sydney Kingsford Smith Airport,Sydney,Australia,SYD,-33.9461,151.1753
+AP019,Melbourne Airport,Melbourne,Australia,MEL,-37.669,144.841
+AP020,Suvarnabhumi Airport,Bangkok,Thailand,BKK,13.69,100.7501
+AP021,Kuala Lumpur International Airport,Kuala Lumpur,Malaysia,KUL,2.7456,101.7072
+AP022,Hong Kong International Airport,Hong Kong,China,HKG,22.308,113.9185
+AP023,Haneda Airport,Tokyo,Japan,HND,35.5494,139.7798
+AP024,Charles de Gaulle Airport,Paris,France,CDG,49.0097,2.5479
+AP025,Amsterdam Schiphol Airport,Amsterdam,Netherlands,AMS,52.3105,4.7683
+AP026,Toronto Pearson International Airport,Toronto,Canada,YYZ,43.6777,-79.6248
+AP027,Istanbul Airport,Istanbul,Turkey,IST,41.2753,28.7519
+AP028,Abu Dhabi International Airport,Abu Dhabi,UAE,AUH,24.433,54.6511
+AP029,Cape Town International Airport,Cape Town,South Africa,CPT,-33.9715,18.6021
+AP030,Frankfurt Hahn Airport,Hahn,Germany,HHN,49.9487,7.2639
